@@ -18,12 +18,12 @@ If you use 'PR Product' in a scientific publication, we would appreciate referen
 
 Biblatex entry:
 
-@inproceedings{wang2019pr,
-  title={PR Product: A Substitute for Inner Product in Neural Networks},
-  author={Wang, Zhennan and Zou, Wenbin and Xu, Chen},
-  booktitle={Proceedings of the IEEE International Conference on Computer Vision},
-  pages={6013--6022},
-  year={2019}
-}
+        @inproceedings{wang2019pr,
+                       title={PR Product: A Substitute for Inner Product in Neural Networks},
+                       author={Wang, Zhennan and Zou, Wenbin and Xu, Chen},
+                       booktitle={Proceedings of the IEEE International Conference on Computer Vision},
+                       pages={6013--6022},
+                       year={2019}
+                       }
 # License
 This code is released under the MIT License (refer to the LICENSE file for details).
